@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "title": "Schools are new battleground in war of disinformation over Covid-19 vaccines",
+      "body": "The rollout of Covid-19 vaccinations to schoolchildren in the United Kingdom has opened up a new front in the disinformation war: anti-vax campaigners are now taking their protests to the school gates.\n\nGroups opposed to vaccination have sought to stoke the fears of parents and children by falsely claiming that the vaccines are untested and dangerous.\nLast week, a small group of protesters demonstrated outside St. Thomas More Catholic School in the town of Blaydon, near Newcastle in northeastern England, as children entered the school gates.\nIn a letter posted on the school website, headteacher Jonathan Parkinson said several students had been \"deeply upset by the way they were treated and the images they were shown\" and that the police had been informed of the school's concerns.",
+      "likes": 0,
+      "id": 1
+    },
+    {
+      "title": "China and India face a deepening energy crunch",
+      "body": "In China, power shortages are the result of a combination of factors, from China's post-pandemic construction boom, to its national push to reduce carbon emissions that led hundreds of coal mines to shut down or slash production earlier this year.\nRestrictions on coal from key supplier Australia and weather woes have exacerbated the issue — and the latter issue has been acute this week, as heavy rains slammed Shanxi and Shaanxi provinces, two key mining hubs that account for nearly half of the country's coal output.\nAn incident involving a collapsed roof at a coal mine in Shaanxi's Xianyang city has made matters worse. The incident — which killed four miners and seriously injured four others, according to state-run Xinhua News Agency — happened days after the provincial government warned all mines to boost safety checks. Xinhua said the local government is still investigating the cause of the collapse.\nThe price of thermal coal, which is primarily used to generate power, has continued to rise. Futures surged 11% Tuesday on the Zhengzhou Commodity Exchange to a new record of nearly 1,508 yuan ($234) per metric ton. That followed an 8% increase on Monday.",
+      "likes": 0,
+      "id": 2
+    },
+    {
+      "title": "Queen uses walking stick 'for first time at major public event' at Royal British Legion service",
+      "body": "The Queen has been pictured using a walking stick at a Westminster Abbey service - believed to be the first time she has used one at a major public event.\n\nThe 95-year-old monarch was handed the stick after stepping from her state limousine and when walking to her seat for the event, marking the centenary of the Royal British Legion.\n\nShe used the stick again as she left and appeared to be moving freely.",
+      "likes": 0,
+      "id": 3
+    }
+  ],
+  "poles": [
+    {
+      "id": 1,
+      "question": "Do you prefer view or React",
+      "answerA": "vue",
+      "answerB": "React"
+    }
+  ]
+}
